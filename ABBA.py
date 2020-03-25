@@ -6,26 +6,6 @@
 
 
 
-
-
-
-
-# def change_letters(string):
-#     print('Origin is: ', string)
-#     string_new = []
-#     for i in range(len(string)):
-#         if string[i] == 'A':
-#             string_new.append('B')
-#         else:
-#             string_new.append('A')
-#     return ''.join(string_new)
-#
-#
-# print('Modifaed is: ', change_letters('AABABBAABBBAB'))
-
-
-
-
 def change(string):
     print('Исходный текст:  ',string)
     new_string = []
